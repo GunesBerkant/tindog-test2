@@ -1,2 +1,1 @@
-# tindog-test2
-tindog test-site
+TinDog Starting Files
